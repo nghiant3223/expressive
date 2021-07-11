@@ -1,6 +1,7 @@
 # Introduction
 
-Expressive is a npm package which generates meaningful strings from any input. It guarantees that same inputs always produce same outputs.
+Expressive is a npm package which generates meaningful strings from any input.  
+It guarantees that same inputs always produce same outputs.
 
 ## Getting Started
 
