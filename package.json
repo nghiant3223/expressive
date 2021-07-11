@@ -1,0 +1,16 @@
+{
+  "name": "@nghiant3223/expressive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Nguyen Trong Nghia <nghiant3223@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.2"
+  }
+}
