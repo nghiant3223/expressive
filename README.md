@@ -1,4 +1,4 @@
-# EXPRESSIVE
+# Introduction
 
 Expressive is a npm package which generates meaningful strings from any input. It guarantees that same inputs always produce same outputs.
 
@@ -7,14 +7,14 @@ Expressive is a npm package which generates meaningful strings from any input. I
 ### Installation
 
 ```bash
-$ npm install meaningful-string
+$ npm install expressivestrings
 ```
 
 ### Example
 
 ```javascript
-const expressive = require('expressive')
-console.log('Meaningful string: ', expressive.expressify('an example string'))
+const expressive = require('expressivestrings')
+console.log('Meaningful string:', expressive.expressify('an example string'))
 ```
 
 ### Output
