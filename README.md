@@ -15,8 +15,8 @@ $ npm install expressivestrings
 ```javascript
 const { expressify } = require('expressivestrings')
 
-console.log(expressify('an example string'))         // Second-hand Millipede
-console.log(expressify(349384394))                   // Upset Siamese
+console.log(expressify('an example string'))          // Second-hand Millipede
+console.log(expressify(349384394))                    // Upset Siamese
 console.log(expressify({x: 1, y: 'a random string'})) // Upright Chinchilla
 ```
 
